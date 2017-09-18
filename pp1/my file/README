@@ -1,0 +1,8 @@
+# Task1 and Task2:
+ python Task1_Task2.py
+
+# Task3:
+ python author_identification.py
+
+ # plot figure
+ python task1_task2_plot.py

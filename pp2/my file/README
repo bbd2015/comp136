@@ -1,0 +1,11 @@
+# task1 
+python bayes_linear_reg.py
+
+# task2
+python bayes_task2.py
+
+# task3 
+python bayes_cross_validation.py
+
+#task4
+python bayes_model_select.py
